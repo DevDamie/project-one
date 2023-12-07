@@ -1,5 +1,18 @@
 body{
-background-color: blueviolet;
+background-color: hsl(30, 38%, 92%);
+width:auto;
+height: auto;
+margin: 12rem 3rem 6rem 9rem;
+
 }
-p{color: aqua
+
+main{
+    display:flex;
+    width: auto;
+    height: auto;
+    background-color:white;
+    padding: 5rem;
+    
+    /* margin values are applied in a clockwise manner (verticals followed by horizontals, i.e. 5rem is applied to the top and bottom while 10rem is applied to left and right. */
+    /* margin: 5rem 10rem */
 }
